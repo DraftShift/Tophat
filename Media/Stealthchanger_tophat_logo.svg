@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 919.99998 420.00002"
+   width="920"
+   height="420"
+   version="1.1"
+   id="svg60"
+   sodipodi:docname="Stealthchanger_tophat_logo.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview60"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="329.5"
+     inkscape:cy="159.5"
+     inkscape:window-width="1416"
+     inkscape:window-height="908"
+     inkscape:window-x="180"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g60" />
+  <desc
+     id="desc1">Stealthchanger_tophat_logo.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#g3,0,1|"
+       id="path-effect73" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#g3,0,1|"
+       id="path-effect74" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path55,0,1|"
+       id="path-effect75" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#g4,0,1|"
+       id="path-effect80" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="originald"
+       linkedpaths="#path111,0,1|"
+       id="path-effect127" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g60">
+    <path
+       id="path111"
+       style="fill:#000000;fill-opacity:1;stroke:#000000"
+       transform="matrix(1,0,0,-1,0,425.98372)"
+       d="M 76.201237,136.1742 32.807643,121.16936 13.327891,98.61061 l 19.448502,-22.975 87.097497,-29.6025 103.60844,-7.977344 103.56156,7.914844 87.0975,29.50875 19.60475,23.1 -19.72975,22.74625 -43.585,14.57125 -6.5785,-20.03125 -64.82155,-22.105 -75.38495,-5.76875 -75.75995,5.83125 -64.759047,22.105 z"
+       sodipodi:nodetypes="ccccccccccccccccc" />
+    <path
+       style="fill:#000000;stroke:#000000"
+       d="m 91.844596,124.28616 -5.065204,15.16585 v 26.43282 l 5.065204,-7.58293 58.353874,-19.80819 73.35417,-5.63063 73.35418,5.63063 58.35387,19.80819 5.0652,7.58293 v -26.43282 l -5.0652,-15.16585 -58.35387,-19.8082 -73.35418,-5.63063 -73.35417,5.63063 z"
+       transform="matrix(1,0,0,-1,0,425.98372)"
+       id="path110" />
+    <path
+       style="fill:#000000;stroke:#000000"
+       d="m 223.66638,144.20186 73.35419,5.64625 58.40255,20.00497 4.91877,15.09501 -0.0156,162.41691 -4.90315,14.96438 -58.43504,19.95623 -73.28921,5.64625 -73.41919,-5.61375 -58.288805,-19.68002 -5.21123,-15.41371 -0.01625,-162.30878 5.227479,-15.41997 58.305056,-19.68002 z"
+       transform="matrix(1,0,0,-1,0,425.98372)"
+       id="path55" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+       d="m 360.35689,347.58747 -4.93377,-15.24689 -58.43504,-19.97247 -73.27296,-5.64625 -73.45169,5.61375 -58.256306,19.66377 -5.24984,15.50624"
+       transform="matrix(1,0,0,-1,0,425.98372)"
+       id="path127"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       d="M 847.17469,264.82323 818.82823,248.45739 V 126.30114 L 677.09595,44.47197 535.36367,126.30114 507.01721,109.93531 677.09595,11.74028 847.17469,109.93531 v 98.19501 h 56.69291 z"
+       style="fill:#000000;stroke:#000000"
+       id="path56" />
+    <path
+       d="m 615.24913,208.13032 61.84682,-98.19501 h -41.23121 l -61.84682,98.19501 z"
+       style="fill:#000000;stroke:#000000"
+       id="path57" />
+    <path
+       d="m 507.01721,151.4374 28.34646,16.36584 v 122.15625 l 141.73228,81.82917 141.73228,-81.82917 28.34646,16.36583 -170.07874,98.19501 -170.07874,-98.19501 v -98.195 H 450.3243 Z"
+       style="fill:#000000;stroke:#000000"
+       id="path58" />
+    <path
+       d="m 677.09595,306.32532 h 41.23121 l 61.84681,-98.195 h -41.23121 z"
+       style="fill:#000000;stroke:#000000"
+       id="path59" />
+    <path
+       d="M 759.55837,109.93531 635.86474,306.32532 H 594.63353 L 718.32716,109.93531 Z"
+       style="fill:#000000;stroke:#000000"
+       id="path60" />
+  </g>
+</svg>
