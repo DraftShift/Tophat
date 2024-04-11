@@ -1,2 +1,1 @@
-![](https://github.com/StealthChanger/Tophat/blob/main/Media/Stealthchanger_tophat_logo.png?raw=true)
-# Tophat
+# <img src="media/images/Tophat_logo.png" align="top" height="100" /> Tophat 
