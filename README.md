@@ -1,6 +1,8 @@
 # <img src="Media/Tophat_logo.png" align="top" height="100" /> Tophat 
 Currently there is only a simplified print it yourself version. This is meant for people not wanting to invest in more extrusions and side plates. you simply have to print the parts. and you can reuse your old top plate and corner pieces.
 
+### The current height is 200mm tall, check if this is good enough for your purposes!
+
 ## Printed part BOM
 ### 350 - 300
 - 64x M3 heat inserts
