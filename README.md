@@ -3,7 +3,6 @@ Currently there is only a simplified print it yourself version. This is meant fo
 
 ## Printed part BOM
 ### 350 - 300
-Total
 - 64x M3 heat inserts
 - 36x M3x10mm SHCS
 - 56x M3x8mm SHCS
