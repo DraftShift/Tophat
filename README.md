@@ -13,13 +13,13 @@ NOTE, a fully parametric design using extrusions is under design though it will 
 
 ## Printed part BOM
 ### 350 - 300
-- 64x M3 heat inserts
-- 36x M3x10mm SHCS
+- 56x M3 heat inserts
+- 24x M3x10mm SHCS
 - 56x M3x8mm SHCS
 - 24x M3 T-nut hammerhead
 
 ### 250
-- 64x M3 heat inserts
-- 36x M3x10mm SHCS
+- 56x M3 heat inserts
+- 24x M3x10mm SHCS
 - 48x M3x8mm SHCS
 - 16x M3 T-nut hammerhead
